@@ -14,6 +14,7 @@ public class Cantroller {
 	public String testing() {
 		
 		JSONObject jsonobject=new JSONObject();
+	
 		
 		jsonobject.put("status", "Ok");
 		jsonobject.put("message", "printed");
